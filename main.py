@@ -3,7 +3,7 @@
 import os
 
 
-JOKE = "I told my toaster we needed to talk, and it said it was feeling a little crumby."
+JOKE = "I told my toaster we needed to talk, and it said it was feeling a little crumby — things had gone stale between us."
 
 
 def main() -> None:
